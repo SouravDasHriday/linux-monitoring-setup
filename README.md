@@ -58,9 +58,9 @@ stress-ng --hdd 1 --timeout 30s
 ```
 
 
-🎯 Skills Demonstrated
-Linux System Administration
-Prometheus Configuration & Query Language
-Grafana Dashboard Creation
-System Performance Analysis
-Real-time Monitoring Setup
+### 🎯 Skills Demonstrated
+### Linux System Administration
+### Prometheus Configuration & Query Language
+### Grafana Dashboard Creation
+### System Performance Analysis
+### Real-time Monitoring Setup
